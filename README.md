@@ -50,7 +50,7 @@ On this page, users can learn more about, start, and quit this plugin. It is als
 2. To start the plugin, click `Start`. Ensure a non-empty score is opened. Scores with all rests are considered as empty as well. Otherwise, the plugin cannot start
 3. Click `Quit` to quit the plugin if needed.
 
-Examples: Please refer to this YouTube [link]().
+Examples: Please refer to this YouTube [link](https://youtu.be/u8odaqHwQ5Q?si=GJi81PAvk_fwQmCj&t=63).
 
 ### Start Page (Specific Bar Selection)
 On the start page, users can play a specific range of measures with a certain tempo and staff.
@@ -62,7 +62,7 @@ On the start page, users can play a specific range of measures with a certain te
 5. A temporary score is created as not to affect the original score. Return to original score if needed.
 6. To play or stop the selected range of measure, click `SPACE`. Also, click `HOME`(Windows) or `Fn`+`→` to rewind to the beginning of the score if needed. 
 
-Examples: Please refer to this YouTube [link]().
+Examples: Please refer to this YouTube [link](https://youtu.be/u8odaqHwQ5Q?si=WAVqZKYqWlb3BnEN&t=255).
 
 ### View Music Notation Page (Specific Beat Notation)
 On this page, users can view detailed notation of beats on specific measures.
@@ -73,9 +73,9 @@ On this page, users can view detailed notation of beats on specific measures.
 4. Key signature, time signature, detailed right staff notation of certain beats, and detailed left staff notation of certain beats are shown. Notations are shown in order of tick.
 5. Click `Previous Beat` or `Next Beat` to view the notation of the previous beat or next beat.
 
-Examples: Please refer to this YouTube [link]().
+Examples: Please refer to this YouTube [link](https://youtu.be/u8odaqHwQ5Q?si=54ieZwL-mRsEAW1k&t=776).
 
-
+### [Complete demonstration](https://youtu.be/u8odaqHwQ5Q?si=-0gSD_gtRXGba0u1)
 
 ## Common Questions
 **Question:** No feedback when the button is clicked.
