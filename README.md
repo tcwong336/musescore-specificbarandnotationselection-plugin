@@ -46,7 +46,7 @@ For screen readers, please view [MuseScore 4 Accessibility](https://musescore.or
 ### Home Page
 On this page, users can learn more about, start, and quit this plugin. It is also a brief introduction to this file.
 <img width="500" alt="Screenshot 2024-04-07 at 17 29 49" src="https://github.com/tcwong336/colab_FashionMINST/assets/130147784/d2acf273-e5d5-40bc-8230-4cd56bc9fb0b">
-1. To understand the plugin features, click `Learn More`. New users are recommended to read before starting.
+1. To understand the plugin features, click `How to Use`. New users are recommended to read before starting.
 2. To start the plugin, click `Start`. Ensure a non-empty score is opened. Scores with all rests are considered as empty as well. Otherwise, the plugin cannot start
 3. Click `Quit` to quit the plugin if needed.
 
