@@ -1209,7 +1209,7 @@ For detailed description, please read the README.pdf file inside the folder."
                                 tempLeftNotes=beatText+beatDetailed
                                 detailedLeftBeatTextArea.text=tempLeftNotes
                                 detailedRightBeatTextArea.text=tempRightNotes
-                                tempBeat=(startMeasure-1)*4+1
+                                tempBeat=(startMeasure-1)*timeSigNum+1
                                 inputEndMeasure.text=""
                                 inputStartMeasure.text=""
                                 inputTempo.text==""
@@ -1255,7 +1255,7 @@ For detailed description, please read the README.pdf file inside the folder."
                                 tempLeftNotes=beatText+beatDetailed
                                 detailedLeftBeatTextArea.text=tempLeftNotes
                                 detailedRightBeatTextArea.text=tempRightNotes
-                                tempBeat=(startMeasure-1)*4+1
+                                tempBeat=(startMeasure-1)*timeSigNum+1
                                 inputEndMeasure.text=""
                                 inputStartMeasure.text=""
                                 inputTempo.text==""
@@ -1371,8 +1371,8 @@ For detailed description, please read the README.pdf file inside the folder."
             anchors.margins:10
             Text {
                 id: timeSigText
-                text:"Time Signature: "+timeSigDen+" "+timeSigNum+"\tKeySignature: "+keySig[curScore.keysig+7]
-                Accessible.description: "Time Signature: "+timeSigDen+" "+timeSigNum+"\tKeySignature: "+keySig[curScore.keysig+7]
+                text:"Time Signature: "+timeSigNum+" "+timeSigDen+"\tKeySignature: "+keySig[curScore.keysig+7]
+                Accessible.description: "Time Signature: "+timeSigNum+" "+timeSigDen+"\tKeySignature: "+keySig[curScore.keysig+7]
                 font.pixelSize:20
                 font.bold:true
             }
