@@ -731,7 +731,7 @@ MuseScore {
                             newTemp.create=false
                             closeScore(curScore)
                         }
-                        homeWindow.close()
+                            homeWindow.visible=false
                     }
                 }
                 onClicked: {
@@ -741,7 +741,7 @@ MuseScore {
                             newTemp.create=false
                             closeScore(curScore)
                         }
-                        homeWindow.close()
+                            homeWindow.visible=false
                     }
                 }
                 
